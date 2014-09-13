@@ -3,6 +3,6 @@
 
 int main()
 {
-// BEWARE I LIVE
+// BEWARE THE LITTLE CHILDREN!!!
 return 0
 }
